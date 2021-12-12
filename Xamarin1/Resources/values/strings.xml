@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checknbuy</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello">Click Me</string>
+    <string name="Submit">Submit</string>
+    
+  <!--Login page hint-->
+  <string name="emailId">Email ID</string>
+  <string name="password">**********</string>
+  
+  <!--Login Page string Values-->
+  <string name="loginButton">Login</string>
+</resources>
